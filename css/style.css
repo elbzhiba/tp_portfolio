@@ -1,3 +1,24 @@
 body{
-    background-color: rgb(194, 179, 209);
+    background-color: rgb(207, 197, 216);
+}
+main h2{
+    text-align: center;
+}
+footer{
+    text-align: right;
+}
+
+    conteneur img{ 
+        width: 150px;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      conteneur {
+          display: flex;
+          justify-content: center;
+      }
+
+main h2{
+    border-width: medium;
+    border-color: rgb(220, 145, 243);
 }
